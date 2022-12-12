@@ -1,0 +1,5 @@
+- 👋 Ahoj, já jsem karel4z
+- 👀 Zajímá mě hudba, informatika a videohry 
+- 🌱 Momentálně se učím C#
+- 💞️ Chtěl bych spolupracovat na nějaké videohře
+- 📫 Můžete mě kontaktovat na "karel4zmail+github@gmail.com"
